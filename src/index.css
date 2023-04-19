@@ -25,7 +25,7 @@ code {
 
 
 .heading-text {
-  font-size: 42px;
+  font-size: 30px;
   font-weight: bolder;
   text-align: center;
   margin: 50px;
@@ -134,9 +134,9 @@ code {
   color: white;
 }
 
-/*  Media Queries */
+/*             Media Queries               */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 666px) {
   .heading-text {
       color: #1CDBF5;
       font-size: 30px;
@@ -159,7 +159,7 @@ code {
       font-weight: bold;
   }
 
-  .list-item {
+  .list-items {
       background-color: #1CDBF5;
       border: none;
       border-radius: 8px;
@@ -205,7 +205,7 @@ code {
       font-weight: bold;
   }
 
-  .list-item {
+  .list-items {
       background-color: #1CDBF5;
       border: none;
       border-radius: 8px;
@@ -245,7 +245,7 @@ code {
       font-weight: bold;
   }
 
-  .list-item {
+  .list-items {
       background-color: #1CDBF5;
       border: none;
       border-radius: 8px;
