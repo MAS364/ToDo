@@ -163,7 +163,7 @@ code {
       background-color: #1CDBF5;
       border: none;
       border-radius: 8px;
-      width: 290px;
+      width: 280px;
       font-size: 18px;
       padding: 10px 15px;
       margin: 15px 0;
@@ -185,7 +185,7 @@ code {
 @media only screen and (max-width: 410px) {
   .heading-text {
       color: #1CDBF5;
-      font-size: 24px;
+      font-size: 22px;
       font-weight: bolder;
       text-align: center;
       margin: 50px;
@@ -264,12 +264,16 @@ code {
       outline: none;
       border: none;
       color: #131A28;
-      font-size: 17px;
+      font-size: 13px;
       font-weight: bolder;
       padding: 10px 15px;
       border-radius: 8px;
       text-align: center;
       margin: 15px;
       cursor: pointer;
+  }
+
+  .task-container{
+    margin: 10px;
   }
 }
